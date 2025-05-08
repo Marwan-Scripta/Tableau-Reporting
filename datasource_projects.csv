@@ -1,0 +1,101 @@
+Datasource ID,Datasource Name,Project Name
+1cb2d22c-1987-4edc-8de7-742e968e6a74,PRICING_ANALYSIS (ANALYTICS.PRICING_ANALYSIS) (BUSINESSOPERATIONS) (local copy),Datasources
+90a0a9f8-fa12-4686-9e52-e3f05c4dc674,TS Users,Admin Insights
+aa30aaf1-0eff-40a9-9c55-70adfcd32bbf,Permissions,Admin Insights
+a1d81d7e-f0e8-48d7-a445-3751f8b7467c,TS Events,Admin Insights
+19c582a0-294b-4b26-8697-d894ebd0f193,Subscriptions,Admin Insights
+860fc7be-b264-402a-9abb-e7265701880e,Groups,Admin Insights
+a8fded56-84f2-4195-9b9b-bc8a8700b4e6,Job Performance,Admin Insights
+21580788-5245-40d1-93a0-15946aec71b3,Viz Load Times,Admin Insights
+4d67f39a-d5e0-4287-ba03-b460bc250781,Tokens,Admin Insights
+de35ab5a-8ca9-4408-ae06-eabdddb61467,Site Content,Admin Insights
+2b02a572-6e54-41a8-b3d7-c78892066652,Campaign Marketing Active Members DataSource,Datasources
+c2e43f45-3ba7-4a6a-99fc-207a06b9e004,Campaign Marketing Datasource,Datasources
+17c45ccc-8437-44dc-9e23-7bf037701982,Drug Opportunities,Datasources
+9f59c734-dad8-4c19-9d3b-dc45c7c465b8,Expected-Values-Of-Drug-A-To-Drug-B-Switches,Datasources
+150a835d-4849-4ce1-9a7b-13e028455cdf,QBR_CUSTOMER_ROI_PERIOD_DATA,QBR Datasources
+d2794142-3b48-49ea-9a6b-fd03f33f0ed3,QBR - CLAIMS AND SPEND DATA SET,QBR Datasources
+4b00649b-6b5e-4b29-be03-778df1e699a9,QBR - Customer Fee Data,QBR Datasources
+662c7ab5-39d7-4148-9c5d-92819b8f2c73,QBR - Customer Lives Datasource,QBR Datasources
+8d02253c-f39b-4015-97c7-d58adb1658d7,QBR - Login and Registration Data,QBR Datasources
+cf5147a7-fef6-4585-a7fc-8d6ae2aa6a67,QBR - Member Communication Metadata Data Set,QBR Datasources
+cfbcf9a8-fe91-4a08-a630-467c7a7e4245,QBR - Member Opportunity Savings Dataset,QBR Datasources
+78552ec4-9b9c-47a0-8a65-314564bf7617,QBR - Member Savings Dataset,QBR Datasources
+477f60de-32bd-49f2-8c36-c0fec2cb02cb,QBR - Member Savings Opportunity Dataset - Child Company Location,QBR Datasources
+99eb0883-432a-4e72-bd79-31ac6336a39a,QBR - Member Utilization Breakdown,QBR Datasources
+94c1ed73-8fa1-4787-a965-4f272ed03373,QBR - Monthly Customer Communications,QBR Datasources
+1ab3702f-6864-43cc-b63f-7d73017958b2,QBR - Number Of Members By Number Of Opportunities,QBR Datasources
+16e8b2ea-c0a2-4d42-a6c3-82bf9dd809e8,QBR - Pharmacy Spend Data,QBR Datasources
+f587d595-d4bd-4ceb-8de0-10b78250342b,QBR - PMPM Spend Data Set,QBR Datasources
+dca81f38-a563-498d-8166-35422e8992da,QBR - Primary Data Source - Data Availability,QBR Datasources
+40b52ae6-e50f-4a0b-9e17-af61be0cdc20,QBR - ROI Period Datasource,QBR Datasources
+05dd2b21-d3a4-4259-a157-88b7f12498d9,QBR - Utilization Ratios Datasource,QBR Datasources
+788a2b87-9fd3-41d3-be81-e3fdf9dda1c3,New Utilizers Drill Down Report Datasource,Drill Down Datasources
+57c0ea43-5cee-4cbb-b889-780c6d5487b6,Dynamic Filter DataSource,In Progress Visualizations
+72545bdb-3c6b-4b98-a008-33b498a656da,CUSTOMER_ROI_PERIOD_DATA - Test,QBR Test Datasources
+6d1fb818-9032-4d02-b7e0-2b7c4f169abf,QBR - CLAIMS AND SPEND DATA SET - Test,QBR Test Datasources
+2829a6c0-76ad-470f-b738-3066e699b9f1,QBR - Customer Fee Data - Test,QBR Test Datasources
+ed4e468d-f49d-4ce8-866b-fa91ee988a1f,QBR - Customer Lives Datasource - Test,QBR Test Datasources
+f29f78c9-8f4a-4765-a714-83f090a9f9ae,QBR - Login and Registration Data - Test,QBR Test Datasources
+f42e99a1-4f0b-42ea-9ebb-f27017fde092,QBR - Member Communication Metadata Data Set - Test,QBR Test Datasources
+708f9442-4b49-4c50-a3c5-c723aab620b5,QBR - Member Opportunity Savings Dataset - Test,QBR Test Datasources
+f234432c-d2e3-4760-811b-fd3d96b8507b,QBR - Member Savings Dataset - Test,QBR Test Datasources
+b8ecef1b-eccd-4117-84d6-41c52861326a,QBR - Member Utilization Breakdown - Test,QBR Test Datasources
+06c28624-d484-44b2-a562-83d8457572fe,QBR - Monthly Customer Communications - Test,QBR Test Datasources
+42df392f-a63f-4f2c-9be9-225b71897744,QBR - Number Of Members By Number Of Opportunities - Test,QBR Test Datasources
+268054b5-1878-4c9f-9133-94c8ccee447c,QBR - PMPM Spend Data Set - Test,QBR Test Datasources
+4a1832cf-73e2-4d65-89ef-aaba4c22fa16,QBR - Primary Data Source - Data Availability - Test,QBR Test Datasources
+8931f85f-ff46-4e41-8ec9-2186cca3ba20,QBR - ROI Period Datasource - Test,QBR Test Datasources
+1d71c0ec-7dbd-4c3e-a8e1-8d6fccdf3026,QBR - Utilization Ratios Datasource - Test,QBR Test Datasources
+210b1f63-19ad-4f6b-b404-fc5f06028634,QBR - Pharmacy Spend Data - Test,QBR Test Datasources
+6811b735-513a-45e9-9e2a-b6505bb8e353,Lagging-Claims-Realized-Savings-Dataset,TEMP DATASOURCES
+e5b1541e-4766-4db0-847e-9574e26e92ad,Amazon QBR - Primary Date Availability Data Source,Amazon QBR Test Datasources
+acff45c8-378c-48ba-b8df-ab093f1762a1,QBR - Amazon - Member Opportunity Savings Dataset - Test,Amazon QBR Test Datasources
+5fd3f378-4e0a-4a28-83b7-18211df9bcd2,QBR - Amazon - Primary Data Source - Data Availability Test - Parameters For Custom Fields,Amazon QBR Test Datasources
+6bae0e02-0de3-48a2-be1a-d128f106a982,VW_REALIZED_SAVINGS_WITH_EMPLOYEE_DATA (TRANSFORMED_LAYER.VW_REALIZED_SAVINGS_WITH_EMPLOYEE_DATA) (VISUALIZATION),Drill Down Datasources
+ad47cb91-e7b5-440a-b789-b8364529505b,QBR - Amazon - Member Savings Dataset - Test,Amazon QBR Test Datasources
+946c4e5d-9ad6-41bf-a4c2-590247736bde,QBR - Amazon - CLAIMS AND SPEND DATA SET (1) (local copy),Amazon QBR Test Datasources
+3d73aba6-cf13-41ea-9c46-f11801027abd,QBR - Amazon - Pharmacy Spend Data (1) (local copy),Amazon QBR Test Datasources
+82149b7a-92fd-415d-82eb-2135382cdc73,QBR - Amazon - Login and Registration Data (1) (local copy),Amazon QBR Test Datasources
+9c8e20bb-c51e-4153-b837-54291106d701,QBR - Amazon - PMPM Spend Data Set (1) (local copy),Amazon QBR Test Datasources
+67976739-bd72-4693-8103-b7ef9fccd3a7,QBR - Amazon - Member Communication Metadata Data Set (1) (local copy),Amazon QBR Test Datasources
+22e67e69-79fd-4a24-89fd-c5ef12d64bf9,QBR - Amazon - Monthly Customer Communications (1) (local copy),Amazon QBR Test Datasources
+6a17b7e4-bac2-4828-9d34-9eefb5784759,Amazon QBR - Claims and Spend Dataset,Amazon QBR Datasources
+03f5a2bc-396f-4795-bcc5-b25146f6d0f2,Amazon QBR - Login and Registration Dataset,Amazon QBR Datasources
+d5045c61-73de-48f2-8413-22b9d63a3c95,Amazon QBR - Member Communication Metadata Dataset,Amazon QBR Datasources
+6b8c92d4-be6c-4c77-aa46-f6911748c095,Amazon QBR - Member Opportunity Savings Dataset,Amazon QBR Datasources
+9f009a49-8195-4834-b47d-b189e9f0c55a,Amazon QBR - Member Savings Dataset,Amazon QBR Datasources
+2b169114-60ad-43b9-8804-daaa9ed4bbed,Amazon QBR - Monthly Customer Communications Dataset,Amazon QBR Datasources
+e0360779-4777-4f0b-93f8-1a9209640981,Amazon QBR - PMPM Spend Dataset,Amazon QBR Datasources
+701e7489-e59b-4758-adb1-2e0be4dd1040,Amazon QBR - Pharmacy Spend Dataset,Amazon QBR Datasources
+83bf92f0-d67c-4b45-bb2b-09df80e90f22,QBR - Amazon - Member Utilization Breakdown (2) (local copy),Amazon QBR Test Datasources
+1ce8b279-1a81-4d67-a9d0-0ea9265e5991,Amazon QBR - Member Utilization Breakdown Dataset,Amazon QBR Datasources
+0894e276-15f7-4f4d-b3d7-15d306d7dd12,QBR - Amazon - Primary Data Source - Data Availability  - Parameters For Custom Fields,Amazon QBR Datasources
+ed75c35e-280a-40a2-8746-86bcfe66b2bc,QBR - Amazon - Number Of Members By Number Of Opportunities (1) (local copy),Amazon QBR Test Datasources
+73c18b9f-7f82-4c2c-a2d5-98b488f53498,Amazon QBR - Number Of Members By Number Of Opportunities Dataset,Amazon QBR Datasources
+fa411d30-50e5-4d10-a118-44b3a3436148,Amazon QBR - Member Utilization Breakdown,Amazon QBR Datasources
+d7903e3a-ce27-4f5c-86ee-424e31eb9fa1,Member Savings Extract For Testing Only,In Progress Visualizations
+79a37e0d-fa37-495b-8a9e-7cf079c75f73,TEST QBR DATA SOURCE - DO NOT USE,In Progress Visualizations
+d5a457e7-94e1-4cf5-92b8-97662cbef1f9,TEST QBR DATA SOURCE - DO NOT USE (local copy),In Progress Visualizations
+afee727a-b0b2-44ca-bbb0-e0f15ac81520,Amazon QBR - Claims and Spend Dataset with Location,Amazon QBR Data Sources with Location
+3753d3e8-5e42-4a95-a324-fd4742120aaa,Amazon QBR - Login and Registration Dataset with Location,Amazon QBR Data Sources with Location
+2eb075e2-a40d-4c65-adec-4319877c8d48,Amazon QBR - Member Communication Metadata Dataset with Location,Amazon QBR Data Sources with Location
+e386ec46-99ce-4bfd-93ae-a3cd9c609b82,Amazon QBR - Member Opportunity Savings Dataset with Location,Amazon QBR Data Sources with Location
+3ed40ab7-9cd8-4e39-9ebe-56b215b8492d,Amazon QBR - Member Savings Dataset with Location,Amazon QBR Data Sources with Location
+39d9fa70-60c5-4fa6-9238-cb827dcabf3f,Amazon QBR - Member Utilization Breakdown with Location,Amazon QBR Data Sources with Location
+98b4d864-b4bb-4649-a664-669dfffd0262,Amazon QBR - Member Utilization Breakdown Dataset with Location,Amazon QBR Data Sources with Location
+2e85ca67-dcf1-484c-8d65-8ef64d157f1c,Amazon QBR - Number Of Members By Number Of Opportunities Dataset with Location,Amazon QBR Data Sources with Location
+7e504050-0e0b-40f8-85c1-fd509709d0c7,Amazon QBR - Pharmacy Spend Dataset with Location,Amazon QBR Data Sources with Location
+45da20a7-d98c-4b08-bf70-f771f3bdf244,Amazon QBR - PMPM Spend Dataset with Location,Amazon QBR Data Sources with Location
+4d71d786-23ce-49cd-94af-a4067911e90f,Amazon QBR - Member Opportunity Savings Dataset with Location - TESTING,In Progress Visualizations
+f52eae13-c0f6-4006-aa7e-1fd936c5060f,Pricing Analysis Datasource,Datasources
+27c79119-6692-4405-99c0-247ed042c192,Member Opportunites For Six Quarters - Testing Use Only,In Progress Visualizations
+f899aa0e-bdf1-47a3-926e-415efbe9a2b9,Member Opportunities for 6 quarters and best saver joined to customer data availability,In Progress Visualizations
+65c010c7-2a17-4028-81f9-89aa65e5f4ac,Member Savings Report For HCBB Customers Datasource,Drill Down Datasources
+dc510d73-9cf4-45f1-bd49-f57c77501e79,QBR - Primary Data Source - Data Availability - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+cf99ae8e-5874-47d8-8528-baaece55070b,QBR - PMPM Spend Data Set - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+c3e846df-bc74-46f2-a8af-9fe351645c8c,QBR - Pharmacy Spend Data - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+2bcc6333-f751-409f-ad89-3213956976e3,QBR - Number of Members by Number Of Opportunities - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+5cc227aa-aacb-4584-b357-66d7279e4afc,QBR - Monthly Customer Communications - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+93f7f0e1-e063-4395-b8a8-ed2383e01d2c,QBR - Member Utilization Breakdown - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
+df0c08cf-a6f6-4e6c-a903-a92efcdcc4aa,QBR - Member Savings Opportunity Dataset - Child Company Location - KPA,QBR V2 (Key Pair Authentication) - Published Data Sources
